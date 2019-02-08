@@ -5,4 +5,4 @@
 layout: home
 ---
 
-I am practicing tech skills for fun and profit.
+Playing with tech for fun and profit.

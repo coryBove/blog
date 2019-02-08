@@ -15,10 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Blog
 email: cory.bove203@gmail.com
+author: cory.b
 description: >- # this means to ignore newlines until "baseurl:"
-  Yet another developer blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Yet another developer blog.
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
+url: "https://corybove.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
