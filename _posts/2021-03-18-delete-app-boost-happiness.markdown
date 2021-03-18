@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delete App, Boost Happiness"
-date:   2021-03-21 7:00:00 -0500
+date:   2021-03-18 12:00:00 -0500
 categories: general
 ---
 
