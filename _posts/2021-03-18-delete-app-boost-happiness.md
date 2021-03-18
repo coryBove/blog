@@ -32,4 +32,6 @@ This has resulted in an upward boost in my mood.
 
 Note: I didn't just delete the time-consuming apps from my phone. I didn't just 'deactivate and maybe reactivate later'. I deleted my user-accounts, and I feel much better because of it.
 
+Yes, I still constantly check my phone.
+
 -cb
