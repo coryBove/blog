@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Playing with tech for fun and profit.
+Playing for fun and profit.
